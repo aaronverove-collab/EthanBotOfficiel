@@ -1,0 +1,13 @@
+{
+    "users": {},
+    "shop": {
+        "VIP": 50000,
+        "PubYT": 150000
+    },
+    "log_channel": null,
+    "shop_color": "#00FFAA",
+    "message_threshold": 10,
+    "message_reward": 100,
+    "voice_interval": 600,
+    "voice_reward": 200
+}

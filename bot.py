@@ -1,3 +1,7 @@
+from keep_alive import keep_alive
+keep_alive()
+import os
+TOKEN = os.getenv("DISCORD_TOKEN")
 import os
 import sqlite3
 import asyncio
